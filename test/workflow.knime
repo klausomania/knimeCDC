@@ -7,7 +7,7 @@
 <entry key="authored-by" type="xstring" value="z002z5tk"/>
 <entry key="authored-when" type="xstring" value="2017-08-01 13:34:28 +0200"/>
 <entry key="lastEdited-by" type="xstring" value="z002z5tk"/>
-<entry key="lastEdited-when" type="xstring" value="2017-08-01 13:34:34 +0200"/>
+<entry key="lastEdited-when" type="xstring" value="2017-08-01 13:35:24 +0200"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
 <entry key="state" type="xstring" value="IDLE"/>
@@ -41,6 +41,38 @@
 <entry key="0" type="xint" value="144"/>
 <entry key="1" type="xint" value="397"/>
 <entry key="2" type="xint" value="94"/>
+<entry key="3" type="xint" value="81"/>
+</config>
+</config>
+</config>
+<config key="node_3">
+<entry key="id" type="xint" value="3"/>
+<entry key="node_settings_file" type="xstring" value="Model Reader (#3)/settings.xml"/>
+<entry key="node_is_meta" type="xboolean" value="false"/>
+<entry key="node_type" type="xstring" value="NativeNode"/>
+<entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.NodeUIInformation"/>
+<config key="ui_settings">
+<config key="extrainfo.node.bounds">
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xint" value="264"/>
+<entry key="1" type="xint" value="217"/>
+<entry key="2" type="xint" value="110"/>
+<entry key="3" type="xint" value="81"/>
+</config>
+</config>
+</config>
+<config key="node_4">
+<entry key="id" type="xint" value="4"/>
+<entry key="node_settings_file" type="xstring" value="Line Reader (#4)/settings.xml"/>
+<entry key="node_is_meta" type="xboolean" value="false"/>
+<entry key="node_type" type="xstring" value="NativeNode"/>
+<entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.NodeUIInformation"/>
+<config key="ui_settings">
+<config key="extrainfo.node.bounds">
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xint" value="684"/>
+<entry key="1" type="xint" value="197"/>
+<entry key="2" type="xint" value="95"/>
 <entry key="3" type="xint" value="81"/>
 </config>
 </config>
